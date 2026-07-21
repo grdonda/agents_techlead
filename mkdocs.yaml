@@ -6,9 +6,6 @@ nav:
   - Analises:
     - Home: analises/index.md
     # --- analises devem vir desde ponto em diante com titulo e caminho do arquivo
-    - BIG DATA ECOSYSTEM COM DOCKER: analises/bigdata_docker.md
-    - java-sb-ms-proxy-viacep: analises/java-sb-ms-proxy-viacep.md
-    - java-especialista-springrest-algafood: analises/java-especialista-springrest-algafood.md
 
   - Projetos:
     - Home: index.md
